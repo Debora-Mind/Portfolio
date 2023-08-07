@@ -1,6 +1,6 @@
 <template>
   <div id='softSkill' class="movel">
-    <div class='text-center display-5 m-6 titulo movel'>Soft Skills</div>
+    <div class='text-center display-5 titulo'>Soft Skills</div>
     <div class='h-100 mt-3'>
       <div class="ps-4 content">
 

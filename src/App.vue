@@ -1,4 +1,4 @@
-<template>
+<template class="movel-container">
   <Index></Index>
   <HardSkill></HardSkill>
   <SoftSkill></SoftSkill>
@@ -68,8 +68,17 @@ export default {
     border-radius: 10px;
   }
 
-  .movel {
-    padding-top: 30px;
+  .movel-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Garante que o container ocupe pelo menos a altura da tela */
   }
+
+  .movel {
+    flex: 1; /* Faz cada div ocupar o espaço disponível verticalmente */
+    padding-top: 30px;
+    padding-bottom: 100vh; /* Cria a margem até a próxima div ocupando a altura total da tela */
+  }
+
 
 </style>

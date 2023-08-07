@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed-bottom text-end h-75 me-0">
+  <div class="position-fixed top-50 end-0 translate-middle-y">
     <nav class="btn-group-vertical me-0">
       <a href="https://github.com/Debora-Mind" class="nav-item m-3" target="_blank"><i id="social" class="bi bi-github"></i></a>
       <a href="https://www.linkedin.com/in/debora-almeida-dev/" class="nav-item m-3" target="_blank"><i id="social" class="bi bi-linkedin"></i></a>

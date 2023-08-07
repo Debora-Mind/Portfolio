@@ -1,6 +1,6 @@
 <template>
   <div id='formacao' class="movel">
-    <div class='text-center display-5 titulo movel'>Formações</div>
+    <div class='text-center display-5 titulo'>Formações</div>
     <div class='h-100 mt-6 content'>
 
     </div>

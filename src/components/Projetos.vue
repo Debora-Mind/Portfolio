@@ -1,10 +1,9 @@
 <template>
   <div id='projeto' class="movel">
-    <div class='text-center display-5 m-6 titulo movel'>Projetos</div>
+    <div class='text-center display-5 titulo'>Projetos</div>
     <div class='h-100 mt-3 content'>
 
     </div>
-
   </div>
 </template>
 
@@ -18,7 +17,7 @@ export default {
         {
           nome: 'Cholet Shoes',
           descricao: 'Aplicação para controle financeiro e de estoque para pequenas empresas da indústria calçadista',
-          link: '',
+          link: 'https://do-and-make.com',
           img: 'img/projetos/cholet-shoes.png'
         }
       ]
@@ -32,11 +31,8 @@ export default {
           <article class='container'>
             <div class='row col-12 rounded bg-dark bg-opacity-50 border border-withe'>
               <dd class='col col-3 m-0 justify-content-center'>
-                <a href="` + this.projetos[i].link + `">
-                  <img src="` + this.projetos[i].img + `" style="width: 6rem;" alt="` + this.projetos[i].nome + `">
-                  <p class="conteudo">
-                    ` + this.projetos[i].nome + `
-                  </p>
+                <a href="` + this.projetos[i].link + `" target="_blank">
+                  <img src="` + this.projetos[i].img + `" class="p-2" alt="` + this.projetos[i].nome + `">
                 </a>
               </dd>
               <dd class='col col-9 m-auto text-start m-0 conteudo'>
