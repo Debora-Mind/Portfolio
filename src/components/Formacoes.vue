@@ -23,15 +23,15 @@ export default {
         },
         {
           instituicao: 'Alura',
-          nome: 'PHP',
-          inicio: '07/2021',
-          fim: '06/2023',
+          nome: 'PHP, JS, TS, GIT, PostgreSQL, Laravel, Doctrine, Composer, HTML 5, Python, VUE, Figma',
+          inicio: '',
+          fim: '',
           img: 'img/instituicoes/alura.jpg'
         },
         {
           instituicao: 'Udemy',
-          nome: 'JS',
-          inicio: '07/2021',
+          nome: 'Codeigniter 4, Charts, JS, jQuery, VUE + Laravel',
+          inicio: '',
           fim: '',
           img: 'img/instituicoes/udemy.png'
         },
@@ -47,7 +47,6 @@ export default {
             <div class="row col-12">
               <div class="col col-4 text-center">
                 <img style="width: 6rem" src="` + this.formacao[i].img + `" alt="Logo ` + this.formacao[i].instituicao + `">
-                <p class="conteudo">` + this.formacao[i].instituicao + `</p>
               </div>
               <p class="col col-5 m-auto text-start conteudo">` + this.formacao[i].nome + `</p>
               <p class="col col-3 m-auto text-end conteudo">
