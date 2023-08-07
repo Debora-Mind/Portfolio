@@ -4,7 +4,6 @@
       <a id="nav" href="#inicio">Início</a>
       <a id="nav" href="#hardSkill">Hard Skills</a>
       <a id="nav" href="#softSkill">Soft Skills</a>
-      <a id="nav" href="#tecnologia">Tecnologias</a>
       <a id="nav" href="#projeto">Projetos</a>
       <a id="nav" href="#formacao">Formação</a>
       <a id="nav" href="#metas">Metas</a>

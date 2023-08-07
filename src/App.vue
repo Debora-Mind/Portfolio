@@ -2,8 +2,8 @@
   <Index></Index>
   <HardSkill></HardSkill>
   <SoftSkill></SoftSkill>
-  <Formacoes></Formacoes>
   <Projetos></Projetos>
+  <Formacoes></Formacoes>
   <Metas></Metas>
   <Sidebar></Sidebar>
   <Navbar></Navbar>
@@ -51,7 +51,7 @@ export default {
     color: #ffffff;
     font-family: 'Montserrat', sans-serif;
     font-size: 4rem;
-    padding: 0 0 4rem 0;
+    padding: 0 0 2rem 0;
   }
 
   .conteudo {

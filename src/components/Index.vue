@@ -4,10 +4,10 @@
   </div>
 
   <div id="inicio" class="movel row conteudo">
-    <div class="text-center mb-4 titulo">Débora</div>
+    <div class="text-center titulo">Débora</div>
     <div class="text-start h-100 col-8">
-      <div class="d-inline-block me-0 my-3 conteudo">
-        <div class="my-2">
+      <div class="d-inline-block me-0 conteudo">
+        <div>
           Olá! É um prazer ter você aqui! Está é uma página onde pretendo mostrar um pouquinho sobre
           quem sou, meus projetos, metas, trajetórias, evoluções e expectativas profissionais. Tenho 29
           anos, sou casada e tenho uma enteada de 9 anos. Moramos hoje em Igrejinha no Vale do
