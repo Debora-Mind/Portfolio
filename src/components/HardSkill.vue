@@ -1,7 +1,7 @@
 <template>
   <div id='hardSkill' class="movel conteudo">
     <div class='text-center display-5 titulo'>Hard Skills</div>
-    <div class='row col-auto mx-0 justify-content-center h-100 mt-3 conteudo'>
+    <div class='row col-auto mx-0 justify-content-center conteudo'>
 
     </div>
   </div>
@@ -16,7 +16,7 @@ export default {
         {
           nome: 'PHP',
           porcentagem: '90',
-          icone: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg'
+          icone: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'
         },
         {
           nome: 'Composer',
@@ -98,7 +98,8 @@ export default {
         $('#hardSkill .conteudo').append(
           `<div class = "col col-auto m-3" >
             <dd class = 'mx-5 text-center' >
-              <img style='width:6rem' src="` + this.hardskill[i].icone + `" alt = "` + this.hardskill[i].nome + `" / >
+              <img style='width:6rem' src="` + this.hardskill[i].icone + `" alt = "` + this.hardskill[i].nome + `"
+              class="pb-2"/>
               <div class = "progress rounded-5 mx-auto" style = 'width:6rem' >
                 <div class = "progress-bar progress-bar-striped progress-bar-animated bg-success rounded-5"
                 role = "progressbar"
