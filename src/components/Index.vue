@@ -8,12 +8,14 @@
     <div class="text-start col-8">
       <div class="d-inline-block me-0 conteudo">
         <div>
-          Olá! É um prazer ter você aqui! Está é uma página onde pretendo mostrar um pouquinho sobre
-          quem sou, meus projetos, metas, trajetórias, evoluções e expectativas profissionais. Tenho 29
-          anos, sou casada e tenho uma enteada de 9 anos. Moramos hoje em Igrejinha no Vale do
-          Paranhana, RS. Encontrei-me ao estudar sobre tecnologia e dessa vez senti estar no caminho
-          certo. Hoje sou Técnica de Suporte TI, resolvo problemas no sistema referentes a SQL, HTML,
-          JavaScript, relatórios JasperSoft e PHP.
+          Olá! Em busca de um desenvolvedor para dar vida ao seu projeto? Vamos nessa!
+          Minha expertise está focada em aplicações web. Portanto, se você está procurando criar um site,
+          é só mandar uma mensagem e começaremos a trocar ideias. Sou uma desenvolvedor fullstack e logo
+          abaixo você pode conferir tanto as minhas habilidades quanto alguns dos projetos que já realizei.
+          Com uma formação em Análise e Desenvolvimento de Sistemas, estou sempre atualizada com as últimas
+          tendências do mercado e constantemente adquirindo novos conhecimentos para garantir que meus
+          projetos sejam práticos, seguros e eficientes. Vamos trabalhar juntos para transformar sua visão
+          em realidade!
         </div>
       </div>
     </div>
