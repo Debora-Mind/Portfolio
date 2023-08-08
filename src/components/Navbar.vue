@@ -30,7 +30,8 @@ export default {
   }
 
   #nav:hover  {
-    text-decoration: underline;
-    color: rgb(54, 162, 162);
+    text-decoration: none;
+    color: rgb(111, 42, 176);
+    text-shadow: 1px 1px #5998d7;
 }
 </style>

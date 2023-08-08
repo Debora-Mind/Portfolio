@@ -43,7 +43,7 @@ export default {
   }
 
   body {
-    background: linear-gradient(189.1deg, rgb(35, 40, 40) 34.32%, rgba(148, 146, 146, 0.85) 100.27%);
+    background: linear-gradient(189.1deg, rgb(62, 133, 178) 34.32%, rgb(183, 119, 220) 100.27%);
     background-attachment: fixed;
   }
 
