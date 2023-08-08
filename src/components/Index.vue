@@ -8,7 +8,7 @@
     <div class="text-start col-8">
       <div class="d-inline-block me-0 conteudo">
         <div>
-          Olá! Em busca de um desenvolvedor para dar vida ao seu projeto? Vamos nessa!
+            Olá! Em busca de um desenvolvedor para dar vida ao seu projeto? Vamos nessa!
           Minha expertise está focada em aplicações web. Portanto, se você está procurando criar um site,
           é só mandar uma mensagem e começaremos a trocar ideias. Sou uma desenvolvedor fullstack e logo
           abaixo você pode conferir tanto as minhas habilidades quanto alguns dos projetos que já realizei.

@@ -1,13 +1,15 @@
 <template>
-  <div id="metas" class="text-start h-100 pe-4 movel">
+  <div id="metas" class="text-start movel conteudo">
     <div class="text-center titulo">Metas</div>
-    <div class="conteudo">
-      Atualmente curso Análise e Desenvolvimento de Sistemas, concluo no primeiro semestre de 2023. Fazendo um
-      aproveitamento das matérias, o meu próximo passo vai ser cursar Engenharia de Software. Após, ainda não
-      escolhi uma pós-graduação, mas com certeza está na minha lista. Sobre as tecnologias aprendidas, conheço
-      Python, PHP, Java, JS, HTML/CSS, Git, MySQL. Sobre as tecnologias que me interessam: MongoDB, AWS, Láravel,
-      Symfony.
-    </div>
+      <div class="conteudo">
+          Tenho planos empolgantes para meu futuro. O próximo passo é cursar Engenharia de Software,
+        seguido por uma pós em desenvolvimento web. Com a Alura e a Udemy, continuo aprofundando meus
+        conhecimentos, atualmente focada em Progressive Web Apps (PWAs) para garantir que meus projetos
+        sejam acessíveis de forma direta em dispositivos móveis.
+        Com determinação e motivação, estou comprometida em transformar essas metas em conquistas tangíveis.
+        Cada passo que tomo me aproxima mais da realização desses objetivos, e estou ansiosa para fazer uma
+        contribuição significativa no campo do desenvolvimento web.
+      </div>
   </div>
 </template>
 
