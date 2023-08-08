@@ -8,7 +8,9 @@
 </template>
 
 <script type="ts">
-export default {
+import {defineComponent} from "vue";
+
+export default defineComponent({
   name: "HardSkill",
   data() {
     return {
@@ -119,7 +121,7 @@ export default {
   mounted() {
     this.add()
   }
-}
+})
 
 </script>
 

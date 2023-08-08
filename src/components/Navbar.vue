@@ -1,12 +1,12 @@
 <template>
   <div id="navbar" class="fixed-top text-center mx-auto">
     <nav>
-      <a id="nav" href="#inicio">Início</a>
-      <a id="nav" href="#hardSkill">Hard Skills</a>
-      <a id="nav" href="#softSkill">Soft Skills</a>
-      <a id="nav" href="#projeto">Projetos</a>
-      <a id="nav" href="#formacao">Formação</a>
-      <a id="nav" href="#metas">Metas</a>
+      <router-link to="/"><a id="nav">Início</a></router-link>
+      <router-link to="/hardskill"><a id="nav">Hard Skills</a></router-link>
+      <router-link to="/softskill"><a id="nav">Soft Skills</a></router-link>
+      <router-link to="/projetos"><a id="nav">Projetos</a></router-link>
+      <router-link to="/formacoes"><a id="nav">Formação</a></router-link>
+      <router-link to="/metas"><a id="nav">Metas</a></router-link>
     </nav>
     <div class="mx-auto hr"></div>
   </div>

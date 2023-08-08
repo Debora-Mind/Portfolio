@@ -1,34 +1,17 @@
 <template class="movel-container">
-  <Index></Index>
-  <HardSkill></HardSkill>
-  <SoftSkill></SoftSkill>
-  <Projetos></Projetos>
-  <Formacoes></Formacoes>
-  <Metas></Metas>
+  <router-view to="index"></router-view>
   <Sidebar></Sidebar>
   <Navbar></Navbar>
 </template>
 
 <script>
-import Index from "@/components/Index";
-import HardSkill from "@/components/HardSkill";
-import SoftSkill from "@/components/SoftSkill";
-import Formacoes from "@/components/Formacoes";
-import Projetos from "@/components/Projetos";
-import Metas from "@/components/Metas";
-import Navbar from "@/components/Navbar";
-import Sidebar from "@/components/Sidebar";
+import Navbar from "@/components/Navbar.vue";
+import Sidebar from "@/components/Sidebar.vue";
 export default {
   name: 'App',
   components: {
     Sidebar,
     Navbar,
-    Metas,
-    Projetos,
-    Formacoes,
-    SoftSkill,
-    HardSkill,
-    Index
   }
 }
 </script>

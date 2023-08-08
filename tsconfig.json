@@ -32,7 +32,9 @@
     "src/**/*.tsx",
     "src/**/*.vue",
     "tests/**/*.ts",
-    "tests/**/*.tsx"
+    "tests/**/*.tsx",
+    "node_modules/vue/macros-global.d.ts",
+    "node_modules/vue/macros-global.d.ts"
   ],
   "exclude": [
     "node_modules"
