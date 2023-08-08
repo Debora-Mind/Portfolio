@@ -75,9 +75,9 @@ export default {
   }
 
   .movel {
-    flex: 1; /* Faz cada div ocupar o espaço disponível verticalmente */
+    flex: 1;
     padding-top: 30px;
-    padding-bottom: 100vh; /* Cria a margem até a próxima div ocupando a altura total da tela */
+    min-height: 100vh;
   }
 
 

@@ -3,10 +3,10 @@
     <img id="logo" src="/img/logo-1.svg" alt="">
   </div>
 
-  <div id="inicio" class="movel row conteudo">
+  <div id="inicio" class="movel row conteudo top-0">
     <div class="text-center titulo">Débora</div>
-    <div class="text-start col-8">
-      <div class="d-inline-block me-0 conteudo">
+    <div class="text-start mb-5 col-8">
+      <div class="me-0 mb-5 conteudo">
         <div>
             Olá! Em busca de um desenvolvedor para dar vida ao seu projeto? Vamos nessa!
           Minha expertise está focada em aplicações web. Portanto, se você está procurando criar um site,
@@ -19,7 +19,7 @@
         </div>
       </div>
     </div>
-    <div class="m-auto mt-1 col-4">
+    <div class="mt-5 pe-5 col-4">
       <img id="foto" src="https://avatars.githubusercontent.com/u/90586894?v?v=4" target="_blank" style="width: 15rem; height: auto" alt="Minha foto">
     </div>
   </div>
