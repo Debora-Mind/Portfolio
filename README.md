@@ -1,7 +1,7 @@
 <h1> My Mind </h1>
 
 ---
-<img src="https://img.shields.io/badge/license-apache-blueviolet"> <img src="https://img.shields.io/badge/version-v0.0.0-purple"> <img src="https://img.shields.io/badge/relace%20date-july-informational"> <img src="https://img.shields.io/badge/status-in%20dev-9cf">
+<img src="https://img.shields.io/badge/license-apache-blueviolet"> <img src="https://img.shields.io/badge/version-v1.0.0-purple"> <img src="https://img.shields.io/badge/relace%20date-agost-informational"> <img src="https://img.shields.io/badge/status-in%20dev-9cf">
 
 > ## Meu primeiro projeto!
 >Esse projeto é a criação de um site que apresente os projetos realizados por mim e a forma como trabalho.
@@ -56,13 +56,17 @@ conhecimento, minhas hablidades e minha evolução ao longo do tempo.
 ---
 ## Sobre mim: 
 <img src="public/img/octocat.png" width="180">
-Atualmente sou estudante de Análise e Desenvolvimento de sistemas, tenho conhecimentos de 
-Python, mas estou me aprofundado em PHP no momento. Aprendo algo novo diariamente e
-o hoje não vai ser diferente! Estudo muito, sempre acompanhada de uma xícara de café quente e
-doce. Sou estudante da Alura e procuro me aprofundar nos meus estudos. Esse é o meu primeiro 
-projeto, onde pretendo mostrar o meu trabalho. No momento sou tecnica de suporte TI, auxiliando em questões de
-sistemas web. O foco é meu crescimento intelectual, profissional e tecnico, para que junto a minha empresa
-possamos crescer juntas. Aceito freelances quando disponível.
+Formada em Análise e Desenvolvimento de sistemas, meus conhecimentos são
+voltados para desenvolvimento web, estou me aprofundado em PHP e seus frameworks.
+Atualmente estudo a combinação de Codeigniter 4 com VUE 3. Aprendo algo novo 
+diariamente e hoje não vai ser diferente! Estudo muito, sempre acompanhada de 
+uma xícara de café quente e doce. Sou estudante na Alura e Udemy, procurando
+me aprofundar cada vez mais. Esse é o meu primeiro projeto, onde pretendo
+mostrar o meu trabalho. No momento sou tecnica de suporte TI, auxiliando em
+questões de sistemas web que envolvem PHP, PostgreSQL, VUE e relatórios em
+Jaspersoft. O foco é meu crescimento intelectual, profissional e tecnico, 
+para que junto a minha empresa possamos crescer juntas. Aceito freelances 
+quando disponível.
 
 ---
 ## License
